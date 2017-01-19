@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow:
+Host: lucky_sle7in.tilda.ws

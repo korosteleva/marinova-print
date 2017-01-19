@@ -1,0 +1,17 @@
+ErrorDocument 403 /404.html
+ErrorDocument 404 /404.html
+
+RewriteEngine On
+
+RewriteRule ^tsm$ page32753.html [NC]
+RewriteRule ^tsm/$ page32753.html [NC]
+
+RewriteRule ^unigym$ page37864.html [NC]
+RewriteRule ^unigym/$ page37864.html [NC]
+
+RewriteRule ^mobile$ page16576.html [NC]
+RewriteRule ^mobile/$ page16576.html [NC]
+
+RewriteRule ^ballet$ page187083.html [NC]
+RewriteRule ^ballet/$ page187083.html [NC]
+
